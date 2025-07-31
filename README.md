@@ -28,8 +28,7 @@ LeetCode's "Top 150" is a curated list of must-know problems frequently asked in
 
 The repository structure (illustrated with an example) is shown below:
 
-<pre> ```text LeetCode-Solutions/ ├── README.md <-- you're reading me! ├── Day01/ │ ├── TwoSum.cpp │ └── README.md <-- explains approach to Two Sum ├── Day02/ │ ├── MergeSortedArray.cpp │ └── README.md ``` </pre>
-
+<pre> ``` LeetCode-Solutions/ ├── README.md ← You're reading me! ├── Day01/ │ ├── TwoSum.cpp │ └── README.md ← Explains approach to Two Sum ├── Day02/ │ ├── MergeSortedArray.cpp │ └── README.md ``` </pre>
 
 
 
