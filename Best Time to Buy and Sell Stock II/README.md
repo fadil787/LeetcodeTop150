@@ -17,3 +17,13 @@ This way, we capture all upward movements in the stock chart, which is equivalen
 Time Complexity: O(n) (one pass through prices).  
 Space Complexity: O(1) (only one variable to track profit).  
 
+
+NOTE: Please refer to the images to visualise this graphically. The second image shows instead of finding valley and peak (actual), it shows that the growth at each point contributes to profit.  
+
+Here are the graphs:  
+
+![Graph 1](Images/Graph1.png)  
+
+![Graph 2](Images/Graph2.png)  
+
+HAPPY SOLVING!!
