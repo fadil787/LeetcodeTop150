@@ -24,6 +24,8 @@ Each jump covers a “level” of reachable indices.
 Within that level, we pick the farthest point we can go → minimizes jumps.  
 
 Refer to the image below:  
+![Jump Game II Visual](Images/Visual.png)  
+
 
 
 
@@ -34,3 +36,6 @@ Each index is visited exactly once in the inner loop across all levels.
 
 Space Complexity: O(1)  
 Only a few integer variables used, no extra array needed.  
+
+
+HAPPY SOLVING!!
