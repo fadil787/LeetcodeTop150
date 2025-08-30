@@ -44,7 +44,7 @@ Each problem may include:
 
 
 
-🛠️ Languag Used - C++
+🛠️ Language Used - C++
 
 
 
